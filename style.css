@@ -1,0 +1,107 @@
+/* Styles for Body Section */
+
+
+body {
+	background-color: ##f6f6f4;
+	margin:0;
+	font-family: 'Proxima Nova', sans-serif;
+	font-size: 16px;
+	margin:0;
+	padding: 40px 200px;
+}
+
+
+/* Styles for Header Section */
+
+
+h1 {
+
+	font-size: 30px;
+}
+
+h2 {
+	font-size: 20px;
+}
+
+h3 {font-size: 15px}
+
+
+/* Styles for Article & Photos Section */
+
+
+.nutgraf {
+	margin-left:18%;
+	margin-right:18%;
+}
+
+.pictures {
+	margin-left:18%;
+	margin-right:18%;
+}
+
+.text{
+	margin-left:18%;
+	margin-right:18%;
+}
+
+/* Style for Large Photo Section*/
+
+.large-photo figure {
+	margin-left:0%;
+	margin-right:18%;
+}
+/* Styles for 3 - pictures Section */
+
+.pictures figure {width: 32%;
+    float: left;
+    margin: 0;
+    text-align: center;
+    padding: 0;
+}
+
+.pictures {
+	overflow: none;
+	height:390px;
+}
+
+figcaption{
+	font-size: 12px;
+}
+
+/* Styles for Text Section */
+
+p {
+	line-height: 150%
+}
+
+a {
+	color:rgb(20, 20, 57);
+
+}
+
+
+/* Styles for Footer Section */
+
+.footer h1 {
+	text-align: center
+}
+
+
+.footer {
+	background-color: rgb(20, 20, 57);
+	color: white;
+	padding: 25px 150px;
+}
+
+.footer figure {width: 32%;
+    float: left;
+    margin: 0;
+    text-align: center;
+    padding: 0;
+}
+
+.footer {
+	overflow: none;
+	height:300px;
+}
+
